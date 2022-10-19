@@ -2,6 +2,9 @@
 	"name": "lackoxygen/tiktok_shop",
 	"type": "library",
 	"description": "抖店php-sdk",
+	"keywords": ["tiktok", "tiktok shop", "sdk"],
+	"homepage": "https://github.com/lackoxygen/laravel-tiktok-shop-sdk",
+	"license": "MIT",
 	"autoload": {
 		"psr-4": {
 			"Lackoxygen\\TiktokShop\\": "src/"
